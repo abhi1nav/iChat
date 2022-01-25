@@ -1,0 +1,38 @@
+.logo{
+    display: block;
+    margin: auto;
+    width: 50px;
+    height: 50px;
+}
+
+.container{
+    max-width: 955px;
+    background-color: red;
+    margin: auto;
+    height: 60vh;
+
+}
+
+.message{
+ background-color: grey ;
+ width: 24%;
+ padding: 10px;
+ margin: 17px 2px;
+ border: 2px solid black;
+ border-radius: 10px;
+
+}
+
+.left{
+ float: left;
+ clear: both;
+}
+
+.right{
+float: right;
+clear: both;
+}
+/* body{
+    background-image: linear-gradient(hsl(276, 80%, 71%), rgb(168, 156, 238));
+} */
+
